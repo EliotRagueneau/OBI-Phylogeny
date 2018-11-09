@@ -1,0 +1,18 @@
+Cj, Campylobacter jejuni; 
+
+
+Cp, Chlamydia pneumoniae; 
+
+
+Ct, Chlamydia trachomatis; 
+
+
+Dr, Deinococcus radiodurans; 
+
+
+c, Escherichia coli; 
+
+
+Hp, Helicobacter pylori; 
+
+
