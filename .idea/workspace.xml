@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cb3f4f1-56e1-4d7a-b2e3-1fa71be88fbd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/protein_sequence.fasta" beforeDir="false" afterPath="$PROJECT_DIR$/protein_sequence.fasta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cleaned_protein_sequence.fasta" beforeDir="false" afterPath="$PROJECT_DIR$/cleaned_protein_sequence.fasta" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,26 +21,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="fasta" value="4" />
+          <entry key="fasta" value="5" />
           <entry key="py" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="PLAIN_TEXT" value="5" />
           <entry key="Python" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="fasta" value="9" />
+          <entry key="fasta" value="12" />
           <entry key="py" value="87" />
           <entry key="txt" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="48" />
+          <entry key="PLAIN_TEXT" value="51" />
           <entry key="Python" value="87" />
         </counts>
       </usages-collector>
@@ -52,6 +53,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cleaned_protein_sequence.fasta">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="95" column="68" lean-forward="true" selection-start-line="95" selection-start-column="68" selection-end-line="95" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -70,7 +80,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/protein_sequence.fasta">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="383">
@@ -81,6 +91,11 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Neisseria meningitidis</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -88,8 +103,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/cure.py" />
-        <option value="$PROJECT_DIR$/cleaned_protein_sequence.fasta" />
         <option value="$PROJECT_DIR$/protein_sequence.fasta" />
+        <option value="$PROJECT_DIR$/cleaned_protein_sequence.fasta" />
       </list>
     </option>
   </component>
@@ -297,7 +312,21 @@
       <option name="project" value="LOCAL" />
       <updated>1542360565135</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Cured protein sequences">
+      <created>1542360720707</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1542360720707</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Cured protein sequences">
+      <created>1542360795503</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1542360795503</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -337,17 +366,17 @@
     <entry file="file://$PROJECT_DIR$/arb-silva.de_2018-11-16_id570591_gapcompressedvertical.fasta">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/protein_sequence.fasta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="192" column="87" selection-start-line="192" selection-start-column="87" selection-end-line="192" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cleaned_16S_alignement.fasta">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-6487">
           <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cleaned_protein_sequence.fasta">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2033">
-          <caret line="253" lean-forward="true" selection-start-line="253" selection-end-line="253" />
         </state>
       </provider>
     </entry>
@@ -358,10 +387,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protein_sequence.fasta">
+    <entry file="file://$PROJECT_DIR$/cleaned_protein_sequence.fasta">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="192" column="87" selection-start-line="192" selection-start-column="87" selection-end-line="192" selection-end-column="87" />
+        <state relative-caret-position="165">
+          <caret line="95" column="68" lean-forward="true" selection-start-line="95" selection-start-column="68" selection-end-line="95" selection-end-column="68" />
         </state>
       </provider>
     </entry>
