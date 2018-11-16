@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3cb3f4f1-56e1-4d7a-b2e3-1fa71be88fbd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cleaned_protein_sequence.fasta" beforeDir="false" afterPath="$PROJECT_DIR$/cleaned_protein_sequence.fasta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16S/cleaned_16S_alignement.fasta" beforeDir="false" afterPath="$PROJECT_DIR$/16S/cleaned_16S_alignement.fasta" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,12 +35,12 @@
         <counts>
           <entry key="fasta" value="12" />
           <entry key="py" value="87" />
-          <entry key="txt" value="39" />
+          <entry key="txt" value="63" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="51" />
+          <entry key="PLAIN_TEXT" value="75" />
           <entry key="Python" value="87" />
         </counts>
       </usages-collector>
@@ -57,34 +57,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cleaned_protein_sequence.fasta">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Phe t-RNA/cleaned_protein_sequence.fasta">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
+            <state relative-caret-position="345">
               <caret line="95" column="68" lean-forward="true" selection-start-line="95" selection-start-column="68" selection-end-line="95" selection-end-column="68" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arb-silva.de_2018-11-16_id570591_gapcompressedvertical.fasta">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/16S/arb-silva.de_2018-11-16_id570591_gapcompressedvertical.fasta">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-540" />
+          </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cleaned_16S_alignement.fasta">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/16S/cleaned_16S_alignement.fasta">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6487">
-              <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+            <state relative-caret-position="83">
+              <caret line="413" column="17" selection-start-line="413" selection-start-column="17" selection-end-line="413" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protein_sequence.fasta">
+        <entry file="file://$PROJECT_DIR$/Phe t-RNA/protein_sequence.fasta">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="383">
-              <caret line="192" column="87" selection-start-line="192" selection-start-column="87" selection-end-line="192" selection-end-column="87" />
+              <caret line="192" column="85" selection-start-line="192" selection-start-column="85" selection-end-line="192" selection-end-column="85" />
             </state>
           </provider>
         </entry>
@@ -105,6 +107,7 @@
         <option value="$PROJECT_DIR$/cure.py" />
         <option value="$PROJECT_DIR$/protein_sequence.fasta" />
         <option value="$PROJECT_DIR$/cleaned_protein_sequence.fasta" />
+        <option value="$PROJECT_DIR$/16S/cleaned_16S_alignement.fasta" />
       </list>
     </option>
   </component>
@@ -126,6 +129,11 @@
               <item name="ProjetOBIS1" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProjetOBIS1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ProjetOBIS1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjetOBIS1" type="462c0819:PsiDirectoryNode" />
+              <item name="16S" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -135,6 +143,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/16S" />
+      <recent name="$PROJECT_DIR$/Phe t-RNA" />
+    </key>
   </component>
   <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
     <UpdatedFiles>
@@ -326,7 +340,21 @@
       <option name="project" value="LOCAL" />
       <updated>1542360795503</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Enlever doublons">
+      <created>1542360876739</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1542360876739</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Enlever doublonsClasser">
+      <created>1542362077149</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1542362077149</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -360,23 +388,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="better curation" />
     <MESSAGE value="Cured protein sequences" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cured protein sequences" />
+    <MESSAGE value="Enlever doublons" />
+    <MESSAGE value="Enlever doublonsClasser" />
+    <option name="LAST_COMMIT_MESSAGE" value="Enlever doublonsClasser" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/arb-silva.de_2018-11-16_id570591_gapcompressedvertical.fasta">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protein_sequence.fasta">
+    <entry file="file://$PROJECT_DIR$/Phe t-RNA/protein_sequence.fasta">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="383">
-          <caret line="192" column="87" selection-start-line="192" selection-start-column="87" selection-end-line="192" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cleaned_16S_alignement.fasta">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6487">
-          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <caret line="192" column="85" selection-start-line="192" selection-start-column="85" selection-end-line="192" selection-end-column="85" />
         </state>
       </provider>
     </entry>
@@ -387,10 +407,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cleaned_protein_sequence.fasta">
+    <entry file="file://$PROJECT_DIR$/Phe t-RNA/cleaned_protein_sequence.fasta">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
+        <state relative-caret-position="345">
           <caret line="95" column="68" lean-forward="true" selection-start-line="95" selection-start-column="68" selection-end-line="95" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16S/arb-silva.de_2018-11-16_id570591_gapcompressedvertical.fasta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16S/cleaned_16S_alignement.fasta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="413" column="17" selection-start-line="413" selection-start-column="17" selection-end-line="413" selection-end-column="17" />
         </state>
       </provider>
     </entry>
