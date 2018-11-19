@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 import re
+
 specie = re.compile(r'[A-Z][a-z]+\s[a-z]{2,}')
-with open("protein_sequence.fasta") as input_file:
+with open("raw_protein_sequence.fasta") as input_file:
     with open("cleaned_protein_sequence.fasta", 'w') as output_file:
         for line in input_file.readlines():
             if line[0] == '>':
