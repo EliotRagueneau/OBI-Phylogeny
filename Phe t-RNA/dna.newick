@@ -1,0 +1,11 @@
+(((Chlamydophila_pneumoniae:0.4124,Chlamydia_trachomatis:0.1558)0.92:0.3695,
+(Bacillus_subtilis:2.783,(Rickettsia_prowazekii:0,(Campylobacter_jejuni:0.2014,
+Ureaplasma_urealyticum:0.4793)0.85:0.2945)0:0)0.76:0.2338)0.49:0.0526,
+(((Vibrio_cholerae:0.0943,Escherichia_coli:0.1385)0.73:0.0626,
+(Neisseria_meningitidis:0,Helicobacter_pylori:0.3416)0.46:0.1201)0.67:0.04937,
+(((Pseudomonas_aeruginosa:0.0654,Xylella_fastidiosa:0.4131)0.64:0.05167,
+Synechocystis_sp:0.2816)0.77:0.1186,(Bacillus_halodurans:2.074,
+(Methanothermobacter_thermautotrophicus:2.085,(((((Thermotoga_maritima:0.1947,
+Aquifex_aeolicus:0.2674)0.75:0.1231,(Aeropyrum_pernix:0,Methanot_a:1.219)
+0.72:0.1745)0.69:0.08038,Methanot_r:0.2363)0:0,Mycobacterium_tuberculosis:0.1746)
+0:0,Deinococcus_radiodurans:2.618)0.071:0.1927)0:0)0:0)0.77:0.1301)0.49:0.1286);
