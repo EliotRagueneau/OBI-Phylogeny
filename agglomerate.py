@@ -25,12 +25,14 @@ list_sp = [
     "Uu, Ureaplasma urealyticum",
     "Xf, Xylella fastidiosa"
 ]
+
 dico_out = {}
 for nom in list_sp:
     dico_out[nom.split(", ")[1]] = {"nom": nom}
 
 specie = re.compile(r'[A-Z][a-z]+\s[a-z]{2,}')
-with open("/home/eliot/Documents/Travail/M1/Projets/ProjetOBIS1/Phe t-RNA/raw_protein_sequence.fasta", "r") as prot_file:
+with open("/home/eliot/Documents/Travail/M1/Projets/ProjetOBIS1/Phe t-RNA/raw_protein_sequence.fasta",
+          "r") as prot_file:
     for line in prot_file.readlines():
 
         if line[0] == '>':
@@ -40,12 +42,6 @@ with open("/home/eliot/Documents/Travail/M1/Projets/ProjetOBIS1/Phe t-RNA/raw_pr
 
             else:
                 dico_out[line]["prot"] = line.replace(">", "").split(" ")[0].replace("_", "\_")
-
-# for specie in dico_out:
-#     try:
-#         print("\t{} &  & {} \\\\".format(specie, dico_out[specie]["prot"].replace("_", "\_")))
-#     except:
-#         pass
 
 specie = re.compile(r'[A-Z][a-z]+\s[a-z]{2,}')
 with open("/home/eliot/Documents/Travail/M1/Projets/ProjetOBIS1/Phe t-RNA/DNA_pheT.fasta", "r") as dna_file:
