@@ -1,4 +1,4 @@
-ARBRE DE REFERENCE : GBlocks/PhyML
+ARBRE DE REFERENCE 16S : GBlocks/PhyML
 
 
 
@@ -43,3 +43,29 @@ Mycobacterium_tuberculosis:0.1422043643)0.22:0.0074214583,
 0.43:0.0377320435,Synechocystis_sp:0.2018400823)1:0.0922603523,
 Aquifex_aeolicus:0.1882913543)0.66:0.0436372692,Thermotoga_maritima:0.0571573510)
 1:0.4652742715,Aeropyrum_pernix:0.1002681502,Archaeoglobus_fulgidus:0.1594125845);
+
+
+
+
+BOOTSTRAP DE L'ARBRE DES PROTEINES : 
+
+((((((((Mycobacterium_tuberculosis:0.0784898922,Escherichia_coli:0.1098955125)
+0.85:0.0911862234,(Deinococcus_radiodurans:1.0182468808,
+Vibrio_cholerae:0.1401225275)0.1:0.0783046650)0.13:0.1745382262,
+(Pseudomonas_aeruginosa:0.3261728792,(Neisseria_meningitidis:0.2952977828,
+Xylella_fastidiosa:0.4491293720)0.6:0.0921529204)0.26:0.1074032834)
+0.34:0.0969810658,((Aquifex_aeolicus:0.5775908827,
+Chlamydia_pneumoniae:0.8229257025)0.21:0.0864666898,
+((Campylobacter_jejuni:0.5158035539,Helicobacter_pylori:0.7280815007)
+1:0.6767509276,Rickettsia_prowazekii:0.6308859165)0.48:0.2995444521)
+0.12:0.1441176027)0.07:0.0476554278,((Synechocystis_sp:0.5929644272,
+Chlamydia_trachomatis:0.2861642453)0.18:0.0311583886,
+(Bacillus_subtilis:0.1673873954,Bacillus_halodurans:0.2919086979)
+0.58:0.1436206741)0.52:0.1725827542)0.07:0.0661821797,
+Thermotoga_maritima:0.6387062364)0.63:0.4963282252,
+Ureaplasma_urealyticum:2.1257559087)1:1.1770978472,Aeropyrum_pernix:0.6785996490,
+Methanothermobacter_thermautotrophicus:0.5344994523);
+
+
+
+
